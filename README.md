@@ -2,7 +2,7 @@
 
 Welcome to the UK Bank Customers Dashboard, an interactive Tableau visualization project that provides a comprehensive look at mock banking data for customer segmentation and behavior analysis. This project helps stakeholders understand customer demographics, account usage patterns, and product preferences to support better decision-making in areas like marketing, product strategy, and customer retention.  
 <br/>
-**📊 View the Live Dashboard on Tableau Public »** : https://public.tableau.com/authoring/UKBankCustomers-Mock/SegmentationDashboard#1 
+**📊 View the Live Dashboard on Tableau Public »** : https://public.tableau.com/app/profile/roopasree.kunjar/viz/UKBankCustomers-Mock/Story1  
 
 <br/>  
 
